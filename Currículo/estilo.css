@@ -9,28 +9,28 @@ background-image: url(img/planodefundo3.jpg);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 40px;
     margin-left: 44%;
-    color: #11ECEC;
+    color: rgb(0, 0, 0);
 }
 #Corpo{
     float: left;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
     margin-left: 15%;
-    color: #11ECEC;
+    color: rgb(0, 0, 0);
 }
 #Escrita{
     float: left;
     font-family:'Arial, Helvetica, sans-serif';
     font-size: 20px;
     margin-left: 15%;
-    color: #11ECEC;
+    color:  black;
 }
 #Escrita2{
     float: left;
     font-family:'Arial, Helvetica, sans-serif';
     font-size: 20px;
     margin-left: 15%;
-    color: #11ECEC;
+    color:  black;
 }
 
 #Corpo2{
@@ -38,40 +38,40 @@ background-image: url(img/planodefundo3.jpg);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
     margin-left: 15%; 
-    color: #11ECEC;
+    color: black;
 }
 #escrita3{
     float: left;
     font-family:'Arial, Helvetica, sans-serif';
     font-size: 20px;
     margin-left: 15%;
-    color: #11ECEC;
+    color:  black;
 }
 #Corpo3{
     float: left;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
     margin-left: 15%; 
-    color: #11ECEC;
+    color:  black;
 }
 #escrita4{
     float: left;
     font-family:'Arial, Helvetica, sans-serif';
     font-size: 20px;
     margin-left: 15%;
-    color: #11ECEC;
+    color:  black;
 }
 #Corpo4{
     float: left;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
     margin-left: 15%; 
-    color: #11ECEC;
+    color:  black;
 }
 #escrita5{
     float: left;
     font-family:'Arial, Helvetica, sans-serif';
     font-size: 20px;
     margin-left: 0%;
-    color: #11ECEC;
+    color: black;
 }
